@@ -1,0 +1,21 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de configuración del editor
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos comprimidos
+*.zip
+*.rar
+
+# Otros
+node_modules/
+dist/
